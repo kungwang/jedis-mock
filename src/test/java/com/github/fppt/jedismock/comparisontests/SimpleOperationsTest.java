@@ -923,5 +923,5 @@ public class SimpleOperationsTest extends ComparisonBase {
 
         assertEquals(2, result);
     }
-    
+
 }
